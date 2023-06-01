@@ -1,4 +1,10 @@
+/* 똑같은 함수가 반복되면 변수를 만드는게 좋음
+코드를 여러번 사용할 필요가 없음 */
 :root{
     --yellow:#fae100;
     --horizontal-space:25px;
+    --main-border:1px solid rgba(0, 0, 0, 0.2);
+    --main-color: rgba(0, 0, 0, 0.3);
 }
+
+
